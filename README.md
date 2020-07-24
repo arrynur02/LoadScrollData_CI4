@@ -1,9 +1,6 @@
 # Tutorial Load More Ci4 & Jquery
 
 
-
-# CodeIgniter 4 Framework
-
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure. 
